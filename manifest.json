@@ -1,0 +1,12 @@
+{
+    "display_name": "插叙 · 小剧场",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "fyave",
+    "version": "0.1.0",
+    "homePage": "",
+    "auto_update": false
+}
