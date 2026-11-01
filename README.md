@@ -19,9 +19,11 @@ SillyTavern/public/scripts/extensions/third-party/st-interlude/
 
 放好后**硬刷新页面**（Ctrl+F5），打开「扩展」面板，展开「插叙 · 小剧场」。
 
-### 方式二：从 Git 仓库安装（发布后）
+### 方式二：从 Git 仓库安装
 
-扩展面板 → `Install Extension` → 粘贴仓库 URL → 装完刷新。
+扩展面板 → `Install Extension` → 粘贴 `https://github.com/lyun00765-commits/st-interlude` → 装完刷新。
+
+之后更新直接在扩展面板点更新即可（`manifest.json` 里 `auto_update` 已开启）。
 
 ## 用法
 
